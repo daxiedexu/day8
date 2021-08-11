@@ -1,0 +1,10 @@
+rootProject.name = "day08"
+include ':app'
+include ':lib_core'
+include ':register'
+include ':net'
+include ':Resource'
+include ':common'
+include ':login'
+include ':home'
+include ':onehome'
